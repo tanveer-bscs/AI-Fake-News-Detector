@@ -6,3 +6,11 @@ history.txt
 reports/report.txt
 
 .vscode/
+__pycache__/
+*.pyc
+
+history.txt
+
+reports/
+
+fake_news.csv
